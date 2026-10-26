@@ -1,3 +1,5 @@
+Group leader: Responsible for documentation, reviewing contributions, and coordinating integration.
+
 Student Information Management System
 
 **Project Description**
