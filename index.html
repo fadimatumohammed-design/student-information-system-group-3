@@ -1,1 +1,54 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Information Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Student Information Management System</h1>
+        <p>Register students and view their records</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Student Registration</h2>
+
+            <form id="studentForm">
+                <label for="name">Full Name</label>
+                <input type="text" id="name" required>
+
+                <label for="matricNumber">Matric Number</label>
+                <input type="text" id="matricNumber" required>
+
+                <label for="programme">Programme</label>
+                <input type="text" id="programme" required>
+
+                <button type="submit">Register Student</button>
+            </form>
+        </section>
+
+        <section>
+            <h2>Student Records</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Full Name</th>
+                        <th>Matric Number</th>
+                        <th>Programme</th>
+                    </tr>
+                </thead>
+                <tbody id="studentRecords">
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
