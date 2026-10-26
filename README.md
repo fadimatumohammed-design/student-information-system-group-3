@@ -2,6 +2,7 @@ Student Information Management System
 
 **Project Description**
 The Student Information Management System is a simple web-based application developed to register students and display their records. It helps organize student information in one place.
+This system helps manage student information and academic records effectively.
 
 **project objectives**
 - To provide a form for registering students.
