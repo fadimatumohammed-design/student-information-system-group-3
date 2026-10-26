@@ -1,8 +1,12 @@
+Group leader: Responsible for documentation, reviewing contributions, and coordinating integration.
+
 Student Information Management System
 
 **Project Description**
 The Student Information Management System is a simple web-based application developed to register students and display their records. It helps organize student information in one place.
-This system helps manage student information and academic records effectively.
+
+
+This system helps students register and view their records.
 
 **project objectives**
 - To provide a form for registering students.
@@ -21,13 +25,15 @@ This system helps manage student information and academic records effectively.
 - script.js – handles the webpage functionality.
 - README.md – contains project documentation.
 
- **Team Members and Responsibilities**
-- Member A: Develop the student registration form.
-- Member B: Develop the student records table.
-- Member C: Style the student records table.
-- Member D: Style the student registration form.
-- Member E (Group Leader): Update project documentation, coordinate integration, and review team contributions.
+**Team Members and Responsibilities**
 
+ Member  Name  Matric Number  Responsibility 
+
+ Member A | [] |  | Student registration form 
+ Member B | [] |  | Student records table 
+ Member C | [] |  | Styling the student records table 
+ Member D | [] | | Styling the registration form 
+ Member E (Group Leader) | Fadimatu mahmudu mohammed | NEU/23/24/SEN/00633 | Documentation, reviewing contributions, and coordinating integration 
 **How to Run the Project**
 1. Download or clone the repository.
 2. Open the project folder.
