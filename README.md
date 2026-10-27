@@ -46,3 +46,6 @@ QUESTION 4: Merge Conflict
 Definition: A merge conflict occurs when Git cannot automatically combine changes made to the same part of a file in different branches.
 One possible cause: Two team members edit the same lines of a file differently and then try to merge their branches.
 Resolution: We created two practice branches, encountered a merge conflict, reviewed the competing changes, selected the appropriate content, and resolved the conflict using the GitHub editor. We then committed the resolution and merged the pull request.
+QUESTION 5:benefits of using Git for
+collaboratives of software development.
+Git allows multiple developers to work on the same project, track changes, and merge their code without losing previous versions.
