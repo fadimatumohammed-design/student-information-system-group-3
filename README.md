@@ -26,7 +26,7 @@ The Student Information Management System is a simple web-based application deve
 
  Member  Name  Matric Number  Responsibility 
 
- Member A | [joseph yusuf dabari] |NEU/23/24/SEN/00633  | Student registration form 
+ Member A | [joseph yusuf dabari] |NEU/23/24/SEN/00516  | Student registration form 
  Member B | [Saeed hawajo] |NEU/23/24/SEN/00424 | Student records table 
  Member C | [] |NEU/23/24/SEN/00709  | Styling the student records table 
  Member D | [fadimatu mahmud mohammed] |NEU/23/24/SEN/00633 | Styling the registration form 
