@@ -26,10 +26,10 @@ The Student Information Management System is a simple web-based application deve
 
  Member  Name  Matric Number  Responsibility 
 
- Member A | [] |  | Student registration form 
- Member B | [] |  | Student records table 
- Member C | [] |  | Styling the student records table 
- Member D | [] | | Styling the registration form 
+ Member A | [joseph yusuf dabari] |NEU/23/24/SEN/00633  | Student registration form 
+ Member B | [Saeed hawajo] |NEU/23/24/SEN/00424 | Student records table 
+ Member C | [] |NEU/23/24/SEN/00709  | Styling the student records table 
+ Member D | [fadimatu mahmud mohammed] |NEU/23/24/SEN/00633 | Styling the registration form 
  Member E (Group Leader) | Fadimatu mahmudu mohammed | NEU/23/24/SEN/00633 | Documentation, reviewing contributions, and coordinating integration 
 **How to Run the Project**
 1. Download or clone the repository.
@@ -39,7 +39,7 @@ The Student Information Management System is a simple web-based application deve
 **Collaboration Process**
 Each member works on a separate feature branch named using their registration number. Members commit and push their changes to GitHub, then create pull requests for review before their changes are merged into the main branch.
 
-## Conclusion
+**Conclusion**
 This project demonstrates how a team can develop a simple student information application and collaborate using Git and GitHub.
 
 QUESTION 4: Merge Conflict
