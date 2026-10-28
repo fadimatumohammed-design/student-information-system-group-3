@@ -1,3 +1,5 @@
+
+Local Git commit and push practice.
 Group leader: Responsible for documentation, reviewing contributions, and coordinating integration.
 
 Student Information Management System
